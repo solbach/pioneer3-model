@@ -1,2 +1,4 @@
 # pioneer3-model
-The JTL Version of Pioneer 3 
+A 3D Model of ActivMedia Robotics Pioneer 3 as used at JTL
+
+ * modeled in Blender
